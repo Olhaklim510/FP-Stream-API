@@ -1,2 +1,2 @@
-# FP-Stream-API
+# FP, Stream-API
 FP, Stream API
